@@ -1,0 +1,7 @@
+[
+  { "id": "a7e2dc0c-03d8-42a3-9e65-91d3cda55ad5", "userId": "2b6d1d4c-91a2-4c0e-b2e9-d6e9d9df1a23", "groupId": "93f8d889-2ff0-41a7-b290-72e38ef8a1ee", "role": "ADMIN" },
+  { "id": "3f25db7b-9b7d-4e79-9051-358f1c89388a", "userId": "4f3f8a8e-1289-4df9-84f3-62a54d4ce7c9", "groupId": "cbb44bde-6f2a-4635-8ec4-1a63e073a345", "role": "MEMBER" },
+  { "id": "597d8fd7-7b2e-4b83-a9aa-c61ebbc8ce7d", "userId": "91b2c92b-9b1c-4e76-9888-85d33b2a71e2", "groupId": "2ecbdc2d-7853-403f-a607-79f6549c3c02", "role": "MEMBER" },
+  { "id": "4417f87b-6f89-47d2-b6ab-bcf0dc59f37b", "userId": "a04eb7ef-4f56-44b8-b0e4-561b046c5119", "groupId": "78ab062d-efc0-49e5-9123-b90d3d96d8a5", "role": "MEMBER" },
+  { "id": "0f36c51c-4683-4e11-9dc8-b73b7cf53f4d", "userId": "6f01a3d4-255e-4b19-92e3-8d7bfc6b5c87", "groupId": "e0543d0a-f03b-478d-9969-f9f75f2b4532", "role": "MEMBER" }
+]

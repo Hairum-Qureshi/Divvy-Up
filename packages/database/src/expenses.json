@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c7a08b6c-3b61-4e17-9d2e-1575e23e19b4",
+    "groupId": "93f8d889-2ff0-41a7-b290-72e38ef8a1ee",
+    "paidById": "2b6d1d4c-91a2-4c0e-b2e9-d6e9d9df1a23",
+    "amount": 120.5,
+    "description": "Dinner at Italian restaurant",
+    "dateAdded": "2025-10-10T00:00:00Z"
+  },
+  {
+    "id": "3d0f92dc-4b5a-40b2-91b2-d7c5e9b347ae",
+    "groupId": "cbb44bde-6f2a-4635-8ec4-1a63e073a345",
+    "paidById": "4f3f8a8e-1289-4df9-84f3-62a54d4ce7c9",
+    "amount": 55.0,
+    "description": "Groceries for trip",
+    "dateAdded": "2025-10-12T00:00:00Z"
+  },
+  {
+    "id": "a5393f88-2211-473c-8c12-6e5b4c6ef1a4",
+    "groupId": "2ecbdc2d-7853-403f-a607-79f6549c3c02",
+    "paidById": "91b2c92b-9b1c-4e76-9888-85d33b2a71e2",
+    "amount": 200.0,
+    "description": "Hotel stay",
+    "dateAdded": "2025-10-14T00:00:00Z"
+  },
+  {
+    "id": "523fe278-8966-4e25-88f4-f8f320d2d3f7",
+    "groupId": "78ab062d-efc0-49e5-9123-b90d3d96d8a5",
+    "paidById": "a04eb7ef-4f56-44b8-b0e4-561b046c5119",
+    "amount": 45.75,
+    "description": "Snacks and drinks",
+    "dateAdded": "2025-10-15T00:00:00Z"
+  },
+  {
+    "id": "d4c68a1d-92da-4cb1-8ac2-7b7cb14baf92",
+    "groupId": "e0543d0a-f03b-478d-9969-f9f75f2b4532",
+    "paidById": "6f01a3d4-255e-4b19-92e3-8d7bfc6b5c87",
+    "amount": 89.99,
+    "description": "Museum tickets",
+    "dateAdded": "2025-10-16T00:00:00Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "132da0a5-2df2-4b72-a4a1-b14a0a3ed45a",
+    "groupId": "93f8d889-2ff0-41a7-b290-72e38ef8a1ee",
+    "payerId": "2b6d1d4c-91a2-4c0e-b2e9-d6e9d9df1a23",
+    "receiverId": "6f01a3d4-255e-4b19-92e3-8d7bfc6b5c87",
+    "amount": 40.0,
+    "status": "pending"
+  },
+  {
+    "id": "73f9152a-d098-420f-911b-c69d2b9d87d0",
+    "groupId": "cbb44bde-6f2a-4635-8ec4-1a63e073a345",
+    "payerId": "4f3f8a8e-1289-4df9-84f3-62a54d4ce7c9",
+    "receiverId": "a04eb7ef-4f56-44b8-b0e4-561b046c5119",
+    "amount": 55.5,
+    "status": "pending"
+  },
+  {
+    "id": "f82efb68-726b-48a3-b1ce-8018c5e1b221",
+    "groupId": "2ecbdc2d-7853-403f-a607-79f6549c3c02",
+    "payerId": "91b2c92b-9b1c-4e76-9888-85d33b2a71e2",
+    "receiverId": "4f3f8a8e-1289-4df9-84f3-62a54d4ce7c9",
+    "amount": 20.0,
+    "status": "completed"
+  },
+  {
+    "id": "47cfb59b-67ae-4f73-8b6d-dc334f1d4d44",
+    "groupId": "78ab062d-efc0-49e5-9123-b90d3d96d8a5",
+    "payerId": "a04eb7ef-4f56-44b8-b0e4-561b046c5119",
+    "receiverId": "4f3f8a8e-1289-4df9-84f3-62a54d4ce7c9",
+    "amount": 70.25,
+    "status": "pending"
+  },
+  {
+    "id": "2e57cb88-1539-4bfb-baa3-6ad7dcfb9956",
+    "groupId": "e0543d0a-f03b-478d-9969-f9f75f2b4532",
+    "payerId": "6f01a3d4-255e-4b19-92e3-8d7bfc6b5c87",
+    "receiverId": "2b6d1d4c-91a2-4c0e-b2e9-d6e9d9df1a23",
+    "amount": 15.0,
+    "status": "completed"
+  }
+]

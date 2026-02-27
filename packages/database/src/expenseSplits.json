@@ -1,0 +1,7 @@
+[
+  { "id": "b219891e-93c4-4b1a-b10d-21e54f01c332", "expenseId": "c7a08b6c-3b61-4e17-9d2e-1575e23e19b4", "userId": "2b6d1d4c-91a2-4c0e-b2e9-d6e9d9df1a23", "amountOwed": 40.0, "status": "UNPAID" },
+  { "id": "6b32d3b7-f6a1-49ed-b51d-1c75c2420e2a", "expenseId": "3d0f92dc-4b5a-40b2-91b2-d7c5e9b347ae", "userId": "4f3f8a8e-1289-4df9-84f3-62a54d4ce7c9", "amountOwed": 20.0, "status": "UNPAID" },
+  { "id": "995a1b83-5618-45f8-8088-bf1e72e2a7ad", "expenseId": "a5393f88-2211-473c-8c12-6e5b4c6ef1a4", "userId": "91b2c92b-9b1c-4e76-9888-85d33b2a71e2", "amountOwed": 60.0, "status": "PAID" },
+  { "id": "64fa5b3c-7a1a-4f2e-9258-f454e1a08d52", "expenseId": "523fe278-8966-4e25-88f4-f8f320d2d3f7", "userId": "a04eb7ef-4f56-44b8-b0e4-561b046c5119", "amountOwed": 30.5, "status": "UNPAID" },
+  { "id": "7de58ff1-64bb-4a86-98f8-7f91b4e95ef7", "expenseId": "d4c68a1d-92da-4cb1-8ac2-7b7cb14baf92", "userId": "6f01a3d4-255e-4b19-92e3-8d7bfc6b5c87", "amountOwed": 15.75, "status": "PAID" }
+]

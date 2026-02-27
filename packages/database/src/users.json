@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2b6d1d4c-91a2-4c0e-b2e9-d6e9d9df1a23",
+    "username": "Tim Apple",
+    "email": "tim@apple.com"
+  },
+  {
+    "id": "4f3f8a8e-1289-4df9-84f3-62a54d4ce7c9",
+    "username": "Sarah Banana",
+    "email": "sarah@banana.com"
+  },
+  {
+    "id": "91b2c92b-9b1c-4e76-9888-85d33b2a71e2",
+    "username": "Mike Grape",
+    "email": "mike@grape.com"
+  },
+  {
+    "id": "a04eb7ef-4f56-44b8-b0e4-561b046c5119",
+    "username": "Lily Mango",
+    "email": "lily@mango.com"
+  },
+  {
+    "id": "6f01a3d4-255e-4b19-92e3-8d7bfc6b5c87",
+    "username": "Chris Berry",
+    "email": "chris@berry.com"
+  }
+]
